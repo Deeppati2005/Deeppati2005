@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Portfolio</title>
-  </head>
-  <body>
-    <h1 align="center">Hi 👋, I'm Deep Pati</h1>
+<h1 align="center">Hi 👋, I'm Deep Pati</h1>
     <h3 align="center">A passionate Software Engineer from India</h3>
     <img
       align="right"
@@ -20,7 +12,6 @@
         alt="deeppati2005"
       />
     </p>
-
     - 🌱 I’m currently learning **Web Development**
     <br />
     - 💬 Ask me about **my passion and hobby**
@@ -48,7 +39,6 @@
           width="40"
       /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -76,7 +66,6 @@
         />
       </a>
     </p>
-
     <p>
       <img
         align="left"
@@ -84,7 +73,6 @@
         alt="deeppati2005"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -92,7 +80,6 @@
         alt="deeppati2005"
       />
     </p>
-
     <p>
       <img
         align="center"
@@ -100,5 +87,3 @@
         alt="deeppati2005"
       />
     </p>
-  </body>
-</html>
