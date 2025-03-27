@@ -12,15 +12,14 @@
         alt="deeppati2005"
       />
     </p>
-    - 🌱 I’m currently learning **Web Development**
+    - 🌱 I’m currently learning Web Development
     <br />
-    - 💬 Ask me about **my passion and hobby**
+    - 💬 Ask me about my passion and hobby
     <br />
-    - 📫 How to reach me **deeppati97@gmail.com**
+    - 📫 How to reach me deeppati97@gmail.com
     <br />
-    - ⚡ Fun fact **I am funny😍😊**
+    - ⚡ Fun fact I am funny😍😊
     <br />
-    <h3 align="left">Connect with me:</h3>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://fb.com/deep98322" target="blank"
