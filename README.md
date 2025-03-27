@@ -34,7 +34,7 @@
         ><img
           align="center"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png"
-          alt="https://instagram.com/https.mr.deep_"
+          alt="https://www.instagram.com/deep_pati._/"
           height="30"
           width="40"
       /></a>
