@@ -30,7 +30,7 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://instagram.com/https.mr.deep_" target="blank"
+      <a href="https://www.instagram.com/deep_pati._" target="blank"
         ><img
           align="center"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png"
